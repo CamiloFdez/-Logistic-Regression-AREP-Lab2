@@ -83,7 +83,7 @@ The model was built from scratch, and the techniques used were the Sigmoid activ
 
 Here is the cost vs iterations graph for the training process:
 
-![image](https://github.com/CamiloFdez/-Logistic-Regression-AREP-Lab2/blob/main/images/costvsiterations.PNG)
+![image](https://github.com/CamiloFdez/-Logistic-Regression-AREP-Lab2/blob/main/images/costanditerations.PNG)
 
 ---
 
