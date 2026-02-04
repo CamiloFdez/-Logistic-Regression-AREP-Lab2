@@ -149,6 +149,16 @@ When the bucket is created we can save the model in the bucket:
 
 ![image](https://github.com/CamiloFdez/-Logistic-Regression-AREP-Lab2/blob/main/images/tars3.PNG)
 
+After that we have to go to sagemaker and create a model:
+
+![image](https://github.com/CamiloFdez/-Logistic-Regression-AREP-Lab2/blob/main/images/creatingmodel.PNG)
+
+Due to AWS Lab restrictions, real-time endpoint deployment was not permitted:
+
+![image](https://github.com/CamiloFdez/-Logistic-Regression-AREP-Lab2/blob/main/images/deploy.PNG)
+
+Instead, inference was successfully demonstrated locally using the trained model artifact.
+
 ---
 
 ## 8. Conclusion
